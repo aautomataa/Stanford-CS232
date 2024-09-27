@@ -8,7 +8,7 @@ Image sampling and quantization, color, point operations, segmentation, morpholo
 Course Homepage: [EE368/CS232: Digital Image Processing](https://web.stanford.edu/class/ee368/index.html)
 
 
-## Schedule
+## Syllabus
 
 
 
