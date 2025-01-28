@@ -53,4 +53,4 @@ Course Homepage: [EE368/CS232: Digital Image Processing](https://web.stanford.ed
 
 
 ## Instruction
-本仓库主要包含 win2019 版的 slides 和 codes.
+本仓库主要包含 win2019 版的 slides 和 codes。
